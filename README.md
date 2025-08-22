@@ -1,3 +1,6 @@
+
+![This pin is all about coding](https://github.com/user-attachments/assets/7f317e28-c2d0-45b8-9f9f-c4078aac23fc)
+
 <h1 align="center">Hi 👋, I'm Harshita Ambolikar</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
